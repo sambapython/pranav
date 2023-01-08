@@ -1,0 +1,9 @@
+opensource
+easy
+interpreter
+support oops
+multithreading
+multiprocessing
+platform independent
+scalable.
+
